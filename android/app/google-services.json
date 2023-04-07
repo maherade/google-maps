@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340095753834",
+    "project_id": "maps-6041d",
+    "storage_bucket": "maps-6041d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340095753834:android:3f54c4f3aff753830f7413",
+        "android_client_info": {
+          "package_name": "com.example.google_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340095753834-lbujgpp862r6gkj12cn2lm81joqs0jn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWroptzzgCILd-AW8GfXTSbJmCsGXAIdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340095753834-lbujgpp862r6gkj12cn2lm81joqs0jn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
